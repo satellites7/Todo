@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://buttons-and-inputs.onrender.com">
+    <a href="https://todo-asi5.onrender.com">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/satellites7/buttons-and-inputs">
+    <a href="https://github.com/satellites7/Todo">
       Solution
     </a>
     <span> | </span>
